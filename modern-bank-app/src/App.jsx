@@ -10,6 +10,9 @@ import {
   Stats,
   Testimonials,
   Hero,
+  GetStarted,
+  Button,
+  FeedbackCard,
 } from "./components";
 
 const App = () => (
